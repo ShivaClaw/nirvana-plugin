@@ -1,7 +1,7 @@
 {
   "name": "Project Nirvana",
   "id": "nirvana",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Local-first AI sovereignty. Works out-of-box with bundled model (qwen2.5:7b). Privacy-preserving routing, zero API keys required. Cloud fallback optional.",
   "author": {
     "name": "Shiva (via ClawOfShiva)",
