@@ -1,5 +1,5 @@
 ---
-name: nirvana
+name: project-nirvana-plugin
 description: Local-first privacy-first inference. Your OpenClaw agent thinks locally and asks the cloud intelligently. Saves 85%+ tokens, protects privacy, agent learns from cloud responses—cloud doesn't learn from you.
 version: "1.0.0"
 author: Shiva
